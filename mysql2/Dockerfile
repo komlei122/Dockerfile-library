@@ -1,2 +1,2 @@
 FROM mysql:8
-MAINTAINER zz<zhongzheng0813@163.com>
+MAINTAINER likang<komlei122@163.com>

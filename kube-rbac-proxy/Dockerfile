@@ -1,2 +1,2 @@
 FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
-MAINTAINER zz<zhongzheng0813@163.com>
+MAINTAINER likang<komlei122@163.com>

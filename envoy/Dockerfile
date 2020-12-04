@@ -1,2 +1,2 @@
 FROM gcr.io/ml-pipeline/envoy:metadata-grpc
-MAINTAINER zz<zhongzheng0813@163.com>
+MAINTAINER likang<komlei122@163.com>
