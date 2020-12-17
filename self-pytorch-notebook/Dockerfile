@@ -9,4 +9,6 @@ RUN conda install pytorch torchvision -c soumith
 # spotlight(https://github.com/maciejkula/spotlight)
 RUN conda install -c maciejkula -c soumith spotlight=0.1.2
 
-# RUN start-notebook.sh
+EXPOSE 8888
+USER jovyan
+CMD ["start-notebook.sh"]
